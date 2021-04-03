@@ -1,2 +1,2 @@
 # estoque
-Projeto com o intuito de aprender sobre o Spring framework.
+Projeto que estou desenvolvendo com o intuito de aprender sobre o Spring framework.
